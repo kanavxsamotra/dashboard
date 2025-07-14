@@ -6,7 +6,7 @@ from deep_translator import GoogleTranslator
 import tempfile
 import os
 
-Key = "AIzaSyDEnjJVKFr3Zb1fK3VIbINf35rtoSssdY8"
+Key = "AIzaSyDNOlWxHNPFhchEJ76zRs45jdvRCs6PAtA"
 
 gemini_model = OpenAI(
     api_key=Key,
